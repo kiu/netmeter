@@ -1,7 +1,7 @@
 # netmeter
 *netmeter* is a trio of analog panel meters showing the up-/download speed of my AVM FRITZ!Box 7360 and ping roundtrip times.
 
-![netmeter](https://raw.githubusercontent.com/kiu/netmeter/master/pics/netmeter_banner.jpg)
+![netmeter](https://raw.githubusercontent.com/kiu/netmeter/master/pics/netmeter_banner.jpg)(https://youtu.be/6VHqjQCAy3I)
 
 # Inspiration
 *netmeter* is inspired by the 10 year old [megabitmeter](http://dk7sl.de/2010/11/11/megabitmeter/) and its - now defunct - commercial version [megabitmeter](http://megabitmeter.de).
